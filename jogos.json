@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nome": "Super Mario World",
+        "genero": "Plataforma",
+        "ano": 1990
+    },
+    {
+        "id": 2,
+        "nome": "Chrono Trigger",
+        "genero": "RPG",
+        "ano": 1995
+    },
+    {
+        "id": 3,
+        "nome": "The Legend of Zelda: Ocarina of Time",
+        "genero": "Aventura",
+        "ano": 1998
+    },
+    {
+        "id": 4,
+        "nome": "Dark Souls",
+        "genero": "Soulslike",
+        "ano": 2011
+    },
+    {
+        "id": 5,
+        "nome": "Bloodborne",
+        "genero": "Soulslike",
+        "ano": 2015
+    },
+    {
+        "id": 6,
+        "nome": "Hollow Knight",
+        "genero": "Plataforma",
+        "ano": 2017
+    },
+    {
+        "id": 7,
+        "nome": "Baldur's Gate 3",
+        "genero": "RPG",
+        "ano": 2023
+    },
+    {
+        "id": 8,
+        "nome": "The Legend of Zelda: Tears of the Kingdom",
+        "genero": "Aventura",
+        "ano": 2023
+    }
+]
